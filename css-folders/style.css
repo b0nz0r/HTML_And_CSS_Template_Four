@@ -2475,6 +2475,7 @@ aside .options a i {
 
 .plans .box>span {
     margin: auto;
+    text-align: center;
 }
 
 .plans .box>span,

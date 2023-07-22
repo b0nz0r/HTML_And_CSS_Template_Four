@@ -1,0 +1,29 @@
+header:
+1-<a href="https://www.flaticon.com/free-icons/delivery-man" title="delivery man icons">Delivery man icons created by Freepik - Flaticon</a>
+dashboard:
+-1-<a href="https://www.freepik.com/free-vector/window-washer-concept-illustration_28097436.htm">Image by storyset</a>
+-2-<a href="https://www.flaticon.com/free-icons/delivery-man" title="delivery man icons">Delivery man icons created by Freepik - Flaticon</a>
+-3-<a href="https://www.freepik.com/free-photo/professional-podcast-vlogging-setup-studio-with-yellow-wall_16558920.htm#query=setup&position=0&from_view=search&track=sph">Image by DCStudio</a>
+-4-<a href="https://www.freepik.com/free-vector/graphic-design-geometric-wallpaper_7088577.htm#query=shapes&position=1&from_view=search&track=sph">Image by pikisuperstar</a>
+-5-<a href="https://www.freepik.com/free-vector/sea-background-video-conferencing_9453742.htm#from_view=detail_author">Image by pikisuperstar</a>
+-6-<a href="https://www.freepik.com/free-vector/realistic-tropical-leaves-background_13817352.htm#from_view=detail_author">Image by pikisuperstar</a>
+-7-<a href="https://www.flaticon.com/free-icons/space-shuttle" title="space shuttle icons">Space shuttle icons created by smashingstocks - Flaticon</a>
+fil table:
+-8-<a href="https://www.flaticon.com/free-icons/avatar" title="avatar icons">Avatar icons created by Freepik - Flaticon</a> yellow
+-9-<a href="https://www.flaticon.com/free-icons/girl" title="girl icons">Girl icons created by Freepik - Flaticon</a> purple
+-10-<a href="https://www.flaticon.com/free-icons/girl" title="girl icons">Girl icons created by Freepik - Flaticon</a> green
+Profile:
+-1-<a href="https://www.flaticon.com/free-icons/delivery-man" title="delivery man icons">Delivery man icons created by Freepik - Flaticon</a>
+-2-1-<a href="https://www.flaticon.com/free-icons/1-year" title="1 year icons">1 year icons created by Freepik - Flaticon</a>
+-2-2-<a href="https://www.flaticon.com/free-icons/academic" title="academic icons">Academic icons created by Assia Benkerroum  - Flaticon</a>
+-2-3-<a href="https://www.flaticon.com/free-icons/done" title="done icons">Done icons created by piksart - Flaticon</a>
+-2-4<a href="https://www.flaticon.com/free-icons/add-to-cart" title="add to cart icons">Add to cart icons created by rukanicon - Flaticon</a>
+Projects:
+-1-<a href="https://www.flaticon.com/free-icons/girl" title="girl icons">Girl icons created by Freepik - Flaticon</a>
+Courses:
+-1-<a href="https://www.freepik.com/free-photo/young-graphic-designer-working-office_6433979.htm">Image by ArthurHidden</a> on Freepik
+-2-Image by <a href="https://www.freepik.com/free-vector/flat-design-time-logos-pack_13862826.htm#query=time&position=23&from_view=search&track=sph">Freepik</a>
+-4-<a href="https://www.freepik.com/free-vector/colorful-icons-set_12067946.htm#query=social%20media&position=10&from_view=search&track=ais">Image by coolvector</a> on Freepik
+-5-<a href="https://www.freepik.com/free-photo/hands-chef-cutting-vegetables-his-kitchen_18855344.htm#query=cooking&position=9&from_view=search&track=sph">Image by master1305</a> on Freepik
+Friends:
+-4-<a href="https://www.flaticon.com/free-icons/person" title="person icons">Person icons created by Freepik - Flaticon</a>

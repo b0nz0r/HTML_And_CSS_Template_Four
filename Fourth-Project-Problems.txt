@@ -1,0 +1,32 @@
+header,nav:
+1-3malethom 90% ama 5ayef il container ida5alha b3athha
+nav:
+-1-anchor mtehom mahomch kol fard line 3amoudi 
+container :
+1-3malt container btari9a mech e7tirafiya
+dashboard:
+-1-fi Yearly Targets akel <i> eli feha mahich mrgla ma7abech tji bedhebt fil media il kol
+-2-Fi Top Search Items w Lasest Uploads height mtehom mech kif b3athom (ya3ni dhahrin barcha eli houma b3ad 9asdi maahomech b3ad chwaya bark)
+-3-fi last project Progress circle fil wost mahomech mriglin bil gde w fil animation mteha mech hiya bedhebt (hiya tnajm tkoun kima 3mlatha raho)
+-4-Fil e5er box (Project) 3malto 90%
+note: bech ena7i p-relaive men div:sidebar bech nchouf chniya isir ki nkmal dasboard
+Settings:
+-1- fi General Info Email input opacity mte3o 3amlo 3al kol w houwa men mosta7sen ken background
+-2- fi Social Info el input wela bjanbou mahoch ma3moul il border
+-3- fi widgets control checkboxes mahomech mriglin (btari9a sem7a)
+-4- fil backup manager radio I presque 3mlatha 90% .
+note : bech ena7i p-relaive men div:sidebar bech nchouf chniya isir ki nkmal settings
+Profile:
+-1- fi awel box ma3raftech kifch fi text ijiw kolhom metsawin ki ta3mel margin left wela right
+-2- fi awel box ki ta3ml hover 3al second first w last child hover iji ken lihom (ama fi max-width:767px 3mlatha )
+note : bech ena7i p-relaive men div:sidebar bech nchouf chniya isir ki nkmal profile
+Projects:
+-Jawo behi
+Courses: 
+- 3malt il taswira lekbira btari9a background ya3ni fema width metjich taswira kemla ama jet mrigla (jawha behi)
+Friends:
+-Jawo behi
+Files: 
+-jawo behi
+Plans:
+-jawo behi 

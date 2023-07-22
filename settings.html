@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="./css-folders/all.min.css">
+    <!-- Normalize File -->
+    <link rel="stylesheet" href="./css-folders/normalize.css">
+    <!-- Style File -->
+    <link rel="stylesheet" href="./css-folders/style.css">
+    <!-- Framework File -->
+    <link rel="stylesheet" href="./css-folders/framework.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;700&family=Roboto&family=Space+Mono&display=swap"
+        rel="stylesheet">
+    <title>Settings</title>
+</head>
+
+<body>
+    <div class="setting d-flex">
+        <!-- Start sidebar -->
+        <aside class="p-relative">
+            <a href="#" class="bold white">B0nz0r</a>
+            <div class="circle"></div>
+            <div class="options">
+                <a class="rad-5 transi white" href="index.html">
+                    <i class="fa-solid fa-table-list fa-fw"></i>
+                    <span>Dashboard</span>
+                </a>
+                <a class="rad-5 transi white hd-bc" href="settings.html">
+                    <i class="fa-solid fa-gear fa-fw"></i>
+                    <span>Settings</span>
+                </a>
+                <a class="rad-5 transi white" href="profile.html">
+                    <i class="fa-regular fa-user fa-fw"></i>
+                    <span>Profile</span>
+                </a>
+                <a class="rad-5 transi white" href="project-page.html">
+                    <i class="fa-solid fa-diagram-project fa-fw"></i>
+                    <span>Project</span>
+                </a>
+                <a class="rad-5 transi white" href="courses.html">
+                    <i class="fa-solid fa-book fa-fw"></i>
+                    <span>Courses</span>
+                </a>
+                <a class="rad-5 transi white" href="friends.html">
+                    <i class="fa-regular fa-circle-user fa-fw"></i>
+                    <span>Friends</span>
+                </a>
+                <a class="rad-5 transi white" href="files.html">
+                    <i class="fa-regular fa-file fa-fw"></i>
+                    <span>Files</span>
+                </a>
+                <a class="rad-5 transi white" href="plans.html">
+                    <i class="fa-regular fa-credit-card fa-fw"></i>
+                    <span>Plans</span>
+                </a>
+            </div>
+        </aside>
+        <!-- End Sidebar -->
+        <div class="page w-full">
+            <!-- Start Header -->
+            <header>
+                <div class="search bord rad-5 transi">
+                    <input class="transi white rad-5" type="search" placeholder="Type A Keyword">
+                </div>
+                <div class="right">
+                    <a href="#"><i class="fa-regular fa-bell white"></i></a>
+                    <div class="image">
+                        <img src="images/header-image.png" alt="">
+                        <a href="https://www.flaticon.com/free-icons/delivery-man" title="delivery man icons">Delivery
+                            man
+                            icons
+                            created by Freepik - Flaticon</a>
+                    </div>
+                </div>
+            </header>
+            <!-- End Header -->
+            <h3 class="main-tilte">Settings</h3>
+            <div class="wrapper gird-principal-1 pad-25-tp pad-25-bt">
+                <!-- Start First Box -->
+                <div class="box boxes-br boxes-bc boxes-pd">
+                    <h3 class="h3-cl h3-sz h3-mg">Site Control</h3>
+                    <span class="sp-cl sp-sz">Control The Website If There Is Maintenance</span>
+                    <div class="min-box min-fl">
+                        <div class="text">
+                            <span class="sp-sz white">Website Control</span>
+                            <span class="sp-cl">Open/Close Website And Type The Reason</span>
+                        </div>
+                        <div class="toggle-switch">
+                            <label class="switch">
+                                <input type="checkbox" checked>
+                                <span class="slider transi"></span>
+                            </label>
+                        </div>
+                    </div>
+                    <textarea placeholder="Close Message Content" class="white rad-5"></textarea>
+                </div>
+                <!-- End First Box -->
+                <!-- Start Second Box -->
+                <div class="box boxes-br boxes-bc boxes-pd">
+                    <h3 class="h3-cl h3-sz h3-mg">General Info</h3>
+                    <span class="sp-cl sp-sz">General Information About Your Account</span>
+                    <div class="min-box">
+                        <label class="sp-cl">First Name</label>
+                        <input class="rad-5 white" type="text" placeholder="First Name">
+                        <label class="sp-cl">Last Name</label>
+                        <input class="rad-5 white" type="text" placeholder="Last Name">
+                        <label class="email sp-cl">Email</label>
+                        <div class="change">
+                            <input class="rad-5 white" type="email" readonly value="b0nz0r@ziza.com" disabled>
+                            <a href="#">Change</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Second Box -->
+                <!-- Start Third Box -->
+                <div class="box boxes-br boxes-bc boxes-pd">
+                    <h3 class="h3-cl h3-sz h3-mg">Security Info</h3>
+                    <span class="sp-cl sp-sz">Security Information About Your Account</span>
+                    <div class="min-box min-fl bd-bt">
+                        <div class="text">
+                            <span class="white">Password</span>
+                            <span class="sp-cl">Last Change On 12/12/2023</span>
+                        </div>
+                        <a href="#" class="white transi rad-5">Change</a>
+                    </div>
+                    <div class="min-box min-fl bd-bt">
+                        <div class="text">
+                            <span class="white">Two-Factor Authentication</span>
+                            <span class="sp-cl">Enable/Disable The Feature</span>
+                        </div>
+                        <div class="toggle-switch">
+                            <label class="switch">
+                                <input type="checkbox">
+                                <span class="slider transi"></span>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="min-box min-fl">
+                        <div class="text">
+                            <span class="white">Devices</span>
+                            <span class="sp-cl">Check The Login Devices List</span>
+                        </div>
+                        <a href="#" class="white transi rad-5 numb">Devices</a>
+                    </div>
+                </div>
+                <!-- End Third Box -->
+                <!-- Start Fourth Box -->
+                <div class="box boxes-br boxes-bc boxes-pd">
+                    <h3 class="h3-cl h3-sz h3-mg">Social Info</h3>
+                    <span class="sp-cl sp-sz">Social Media Information</span>
+                    <div></div>
+                    <div class="min-box">
+                        <input class="white rad-5" type="text" placeholder="Twitter Username">
+                        <i class="fa-brands fa-twitter sp-cl transi"></i>
+                    </div>
+                    <div class="min-box">
+                        <input class="white rad-5" type="text" placeholder="Facebook Username">
+                        <i class="fa-brands fa-facebook-f sp-cl transi"></i>
+                    </div>
+                    <div class="min-box">
+                        <input class="white rad-5" type="text" placeholder="Linkedin Username">
+                        <i class="fa-brands fa-linkedin sp-cl transi"></i>
+                    </div>
+                    <div class="min-box">
+                        <input class="white rad-5" type="text" placeholder="Youtube Username">
+                        <i class="fa-brands fa-youtube sp-cl transi"></i>
+                    </div>
+                </div>
+                <!-- End Fourth Box -->
+                <!-- Start Fifth Box -->
+                <div class="box boxes-br boxes-bc boxes-pd">
+                    <h3 class="h3-cl h3-sz h3-mg">Widgets Control</h3>
+                    <span class="sp-cl sp-sz">Show/Hide Widgets</span>
+                    <div class="min-box">
+                        <form action="">
+                            <div class="check">
+                                <input type="checkbox" name="Widgets" id="dr" checked>
+                                <label for="dr" class="white">Quick Draft</label>
+                            </div>
+                            <div class="check">
+                                <input type="checkbox" name="Widgets" id="yt">
+                                <label for="yt" class="white">Yearly Targets</label>
+                            </div>
+                            <div class="check">
+                                <input type="checkbox" name="Widgets" id="ts">
+                                <label for="ts" class="white">Tickets Statistics</label>
+                            </div>
+                            <div class="check">
+                                <input type="checkbox" name="Widgets" id="ln" checked>
+                                <label for="ln" class="white">Latest News</label>
+                            </div>
+                            <div class="check">
+                                <input type="checkbox" name="Widgets" id="lt" checked>
+                                <label for="lt" class="white">Latest Tasks</label>
+                            </div>
+                            <div class="check">
+                                <input type="checkbox" name="Widgets" id="tsi">
+                                <label for="tsi" class="white">Top Search Items</label>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <!-- End Fifth Box -->
+                <!-- Start Sixth Box -->
+                <div class="box boxes-br boxes-bc boxes-pd">
+                    <h3 class="h3-cl h3-sz h3-mg">Backup Manager</h3>
+                    <span class="sp-cl sp-sz">Control Backup Time And Location</span>
+                    <form action="" class="white">
+                        <div class="radio">
+                            <input class="transi br-50" type="radio" name="backup" id="da">
+                            <label for="da">Daily</label>
+                        </div>
+                        <div class="radio">
+                            <input class="transi br-50" type="radio" name="backup" id="we" checked>
+                            <label for="we">Weekly</label>
+                        </div>
+                        <div class="radio">
+                            <input class="transi br-50" type="radio" name="backup" id="mo">
+                            <label for="mo">Monthly</label>
+                        </div>
+                    </form>
+                    <form action="" class="white">
+                        <label for="al" class="rad-5">
+                            <input type="radio" id="al" name="mg">
+                            <span class="elem"></span>
+                            <div class="text">
+                                <i class="fa-solid fa-server"></i>
+                                <span>Alpha</span>
+                            </div>
+                        </label>
+                        <label for="om" class="rad-5">
+                            <input type="radio" id="om" name="mg">
+                            <span class="elem"></span>
+                            <div class="text">
+                                <i class="fa-solid fa-server"></i>
+                                <span>Omega</span>
+                            </div>
+                        </label>
+                        <label for="si" class="rad-5">
+                            <input type="radio" id="si" name="mg" checked>
+                            <span class="elem"></span>
+                            <div class="text">
+                                <i class="fa-solid fa-server"></i>
+                                <span>Sigma</span>
+                            </div>
+                        </label>
+                    </form>
+                </div>
+                <!-- End Sixth Box -->
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
